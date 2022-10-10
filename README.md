@@ -1,4 +1,4 @@
-# 📦 js-boilerplate
+# 📦 ts-boilerplate
 
 Webpack 5 boilerplate using TypeScript and Sass
 
